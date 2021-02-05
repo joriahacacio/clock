@@ -51,7 +51,7 @@ body {
     left: 50%;
     
     background-color:blanchedalmond;
-    border: 1px solid blueviolet;
+    border: 1px solid;
     border-top-left-radius:10px;
     border-top-right-radius:10px;
     transform-origin:bottom;
@@ -81,12 +81,12 @@ body {
 .clock .hand.minute{
     width: 7px;
     height: 40%;
-    background-color:darkgreen;
+    background-color:white
 }
 
 .clock .hand.hour{
     width: 10px;
     height: 35%;
-    background-color: darkgreen;
+    background-color:white;
 }
 
